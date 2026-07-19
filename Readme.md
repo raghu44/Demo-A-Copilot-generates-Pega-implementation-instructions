@@ -1,5 +1,5 @@
 # Part of Guidelines for Using MCP and Pega
-
+https://www.youtube.com/watch?v=nGIGTk0-mZ0
 ## MCP Requirements
 - MCP is not required for this process.
 - You can place your Blueprint export, requirement documents, screenshots, and rule inventory in the VS Code folder.
